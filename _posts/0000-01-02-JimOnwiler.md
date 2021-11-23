@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+and the worms ate into his brain
 Use the left arrow to go back!
